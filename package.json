@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "build": "tsc -p .",
+    "watch": "tsc -p . -w"
+  }
+}
+
